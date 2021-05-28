@@ -1,5 +1,5 @@
 
-{
+item:[{
           id: 5928101,
           category: "animal welfare",
           title: "Cat Adoption Day",
@@ -32,3 +32,4 @@
           petsAllowed: false,
           organizer: "Carey Wales",
         }
+]
