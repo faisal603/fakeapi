@@ -3,15 +3,14 @@
           "title": "Cat Adoption Day",
           "description": "Find your new feline friend at this event.",
           "date": "January 28, 2022",
-          "time": "12:00",
-
+          "time": "12:00"
         },
         {
           "id": 4582797,
           "title": "Community Gardening",
           "description": "Join us as we tend to the community edible plants.",
           "date": "March 14, 2022",
-          "time": "10:00",
+          "time": "10:00"
 
         },
         {
@@ -19,6 +18,6 @@
           "title": "Beach Cleanup",
           "description": "Help pick up trash along the shore.",
           "date": "July 22, 2022",
-          "time": "11:00",
+          "time": "11:00"
       
         }]
