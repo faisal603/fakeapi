@@ -1,4 +1,5 @@
-"events":[{
+{"events":[
+          {
           "id": 5928101,
           "title": "Cat Adoption Day",
           "description": "Find your new feline friend at this event.",
@@ -20,4 +21,6 @@
           "date": "July 22, 2022",
           "time": "11:00"
       
-        }]
+        }
+]
+}
