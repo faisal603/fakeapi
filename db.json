@@ -1,31 +1,24 @@
-details:[
-  {
-    "userId": 1,
-    "id": 1,
-    "title": "delectus aut autem",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 2,
-    "title": "quis ut nam facilis et officia qui",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 3,
-    "title": "fugiat veniam minus",
-    "completed": false
-  },
-  {
-    "userId": 1,
-    "id": 4,
-    "title": "et porro tempora",
-    "completed": true
-  },
-  {
-    "userId": 1,
-    "id": 5,
-    "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
-    "completed": false
-  }]
+"events":[{
+          "id": 5928101,
+          "title": "Cat Adoption Day",
+          "description": "Find your new feline friend at this event.",
+          "date": "January 28, 2022",
+          "time": "12:00",
+
+        },
+        {
+          "id": 4582797,
+          "title": "Community Gardening",
+          "description": "Join us as we tend to the community edible plants.",
+          "date": "March 14, 2022",
+          "time": "10:00",
+
+        },
+        {
+          "id": 8419988,
+          "title": "Beach Cleanup",
+          "description": "Help pick up trash along the shore.",
+          "date": "July 22, 2022",
+          "time": "11:00",
+      
+        }]
